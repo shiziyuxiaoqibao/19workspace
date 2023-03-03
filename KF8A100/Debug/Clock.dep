@@ -1,0 +1,2 @@
+Clock.o: ../Clock.c ../includes.h ../KF8_Type_Define.h ../Clock.h \
+ ../Timer.h ../UART.h ../BSP_can.h ../ADC.h ../KEY.h
