@@ -1,2 +1,2 @@
 # testexample20230216
-kf8a100gqt Realize can bus communication code
+kf8a100gqt/ can bus communication code
